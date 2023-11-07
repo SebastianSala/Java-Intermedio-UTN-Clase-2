@@ -1,0 +1,12 @@
+# Ignore build artifacts
+/build
+/dist
+/nbproject
+
+# Ignore test-related files or directories
+/test
+
+# Exclude specific files
+/build.xml
+/manifest.mf
+
